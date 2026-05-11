@@ -12,8 +12,6 @@
 
 ![Solar Flair Dashboard Mockup](/Users/sarvyagyaprakash/.gemini/antigravity/brain/a3213a05-6037-4a96-ac7a-75b536f08cd0/solar_flair_dashboard_mockup_1778491399187.png)
 
-*A preview of the Solar Flair intelligent rooftop segmentation and financial analytics dashboard.*
-
 </div>
 
 ## 🚀 Overview
